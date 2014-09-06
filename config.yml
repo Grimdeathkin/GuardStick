@@ -1,0 +1,60 @@
+DisabledItems:
+    - LAVA_BUCKET
+    - FLINT_AND_STEEL
+    - WATER
+    - LAVA
+    - WATER_BUCKET
+    - WATER_LILY
+    - SAND
+    - GRAVEL
+    - ANVIL
+
+DisabledBlocks:
+    - ENCHANTMENT_TABLE
+    - ANVIL
+
+ConfiscatedItems:
+    - DIAMOND_SWORD
+    - DIAMOND_AXE
+    - IRON_SWORD
+    - IRON_AXE
+    - STONE_SWORD
+    - STONE_AXE
+    - GOLD_SWORD
+    - GOLD_AXE
+    - WOOD_SWORD
+    - WOOD_AXE
+    - BOW
+    - FISHING_ROD
+
+Rules: http://www.pistonmc.com/threads/official-prison2-0-rules.1957/
+
+Guidelines: http://goo.gl/eWmyEQ
+
+Guard:
+    Confiscator: BONE
+    Protection: 5
+    Sword:
+        Sharpness: 5
+    Potions:
+        Resistance: 3
+        Speed: 1
+        Regeneration: 1
+
+Moderator:
+    Confiscator: BONE
+    Protection: 5
+    Sharpness: 5
+    Potions:
+        Resistance: 3
+        Speed: 1
+        Regeneration: 1
+
+Admin:
+    Confiscator: BONE
+    Protection: 5
+    Sharpness: 5
+    Potions:
+        Resistance: 3
+        Speed: 1
+        Regeneration: 1

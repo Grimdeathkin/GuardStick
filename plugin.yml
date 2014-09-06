@@ -1,0 +1,11 @@
+name: GuardStick
+main: com.gurimu.GuardStick
+version: 3.2
+author: Gurimu
+depend: [Vault]
+commands:
+    guardstick:
+    kitguard:
+    countdown:
+    kitstaff:
+    guardedit:
